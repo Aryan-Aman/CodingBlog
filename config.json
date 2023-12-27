@@ -14,8 +14,8 @@
       "about_text": "Hi I am Aman and I have created this blog using python flask and I am a good boy",
       "no_of_posts": 2,
       "login_image": "login.jpg",
-      "admin_user":"Aman",
-      "admin_password": "Demo123",
+      "admin_user":"Jo sahi lage rakh lo",
+      "admin_password": "Apna bana lo",
       "upload_location": "C:\\Users\\z004twvs\\PycharmProjects\\LearnFlask\\static"
 
     }
