@@ -1,0 +1,22 @@
+{
+    "params": {
+      "local_server": "True",
+      "local_uri": "mysql://root:@localhost/siemensnews",
+      "prod_uri": "mysql://root:@localhost/siemensnews",
+      "fb_url": "https://facebook.com/siemensnews",
+      "tw_url": "https://twitter.com/siemensnews",
+      "gh_url": "https://github.com/siemensnews",
+      "blog_name": "Code Club",
+      "tag_line": "Coding Club for Team DTS",
+      "copy_right": "CodeClub 2023",
+      "gmail-user": "foodiedost5721@gmail.com",
+      "gmail-password": "ztdrpqqicxanleba",
+      "about_text": "Hi I am Aman and I have created this blog using python flask and I am a good boy",
+      "no_of_posts": 2,
+      "login_image": "login.jpg",
+      "admin_user":"Jo sahi lage rakh lo",
+      "admin_password": "Apna bana lo",
+      "upload_location": "C:\\Users\\z004twvs\\PycharmProjects\\LearnFlask\\static"
+
+    }
+}
