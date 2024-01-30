@@ -7,16 +7,16 @@
       "tw_url": "https://twitter.com/siemensnews",
       "gh_url": "https://github.com/siemensnews",
       "blog_name": "Code Club",
-      "tag_line": "Coding Club for Team DTS",
+      "tag_line": "Coding Club for my community",
       "copy_right": "CodeClub 2023",
-      "gmail-user": "foodiedost5721@gmail.com",
-      "gmail-password": "ztdrpqqicxanleba",
+      "gmail-user": "example@gmail.com",
+      "gmail-password": "get_Code_from_gmail",
       "about_text": "Hi I am Aman and I have created this blog using python flask and I am a good boy",
       "no_of_posts": 2,
       "login_image": "login.jpg",
       "admin_user":"Jo sahi lage rakh lo",
       "admin_password": "Apna bana lo",
-      "upload_location": "C:\\Users\\z004twvs\\PycharmProjects\\LearnFlask\\static"
+      "upload_location": "C:\\Users\\Aman\\LearnFlask\\static-choose upload location"
 
     }
 }
